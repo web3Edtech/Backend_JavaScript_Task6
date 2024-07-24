@@ -1,10 +1,10 @@
 {
-  "name": "javascript-basics-task",
+  "name": "fetch-user-data-task",
   "version": "1.0.0",
-  "description": "A simple JavaScript task for learning basics",
-  "main": "index.js",
+  "description": "A simple task to learn fetching data using Promises and Fetch API in JavaScript",
+  "main": "fetchUserData.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node fetchUserData.js"
   },
   "author": "NFThing",
   "license": "ISC"
