@@ -1,2 +1,2 @@
-# Backend_JavaScript_Task1
-Basic Syntax and DOM Manipulation
+# Backend_JavaScript_Task6
+Fetching User Data with Promises
